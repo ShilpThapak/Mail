@@ -1,0 +1,56 @@
+textarea {
+    min-height: 400px;
+}
+
+#divrow{
+    font-size: 18px;
+    padding: 2px;
+}
+
+#divgrid{
+    display: grid;  
+    border: 1px solid black; 
+    grid-column-gap: 20px;
+    grid-row-gap: 10px;
+    grid-template-columns: 250px 600px auto;
+    margin-bottom: 4px;
+    cursor: pointer;
+    transition: transform .2s;
+}
+
+#divgrid:hover{
+    transform: scale(1.005);
+}
+
+#body-body{
+    border: 1px solid black;
+    height: 400px;
+    padding: 5px;
+}
+
+#grid{
+    display: grid;  
+    border: 1px solid black; 
+    grid-column-gap: 20px;
+    grid-row-gap: 10px;
+    grid-template-columns: 800px auto;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+#body-recipients{
+    border: 1px solid black;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+#recipientlist{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#replybtn, #archivebtn{
+    margin: 5px;
+    margin-left: 0px;
+}
