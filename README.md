@@ -1,7 +1,9 @@
-A single-page email client website created using HTML, CSS, Django and Javascript.
+Mail - A CS50 Web Project
 ==========================
 
 **Demo:** https://youtu.be/zVmdaxzWOoA
+
+A single-page email client website created using HTML, CSS, Django and Javascript.
 
 **Features:**
 
