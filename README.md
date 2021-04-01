@@ -16,3 +16,6 @@ A single-page email client website created using HTML, CSS, Django and Javascrip
 4. Archive and Unarchive: Users can archive and unarchive emails that they have received.
 
 5. Reply: Users can reply to an email.
+
+This project is created for Harvard CS50 Web course. 
+Check out more about the project here: https://cs50.harvard.edu/web/2020/projects/3/mail/
